@@ -4,7 +4,12 @@ namespaces:
 - o
 - en
 - .uk
+- .gb
 - github: 4mel1a
+  name: ari
+- github: .
+  name: my
+
 defaultKeyword: s
 language: en
-country: us
+country: gb
