@@ -3,9 +3,8 @@
 namespaces:
 - o
 - en
-- .us
-- github: .
-  name: my
+- .uk
+- github: 4mel1a
 defaultKeyword: s
 language: en
 country: us
